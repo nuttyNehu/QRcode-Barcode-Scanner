@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">QR Barcode Scanner</string>
+    <string name="permission_required_dialog_title">This app needs these permissions in order to function properly. Please allow required permissions from Settings page?</string>
+    <string name="permission_denial_title">This App cannot run without these permissions.</string>
+    <string name="qrcode_wifi">QrCode: Wifi</string>
+    <string name="qrcode_details">Scanned Details</string>
+    <string name="driver_liscense">Scanned: Driving Liscense</string>
+    <string name="qrcode_ssid">SSID : </string>
+    <string name="qrcode_security">Security : </string>
+    <string name="qrcode_password">Password : </string>
+    <string name="qrcode_name">Name : </string>
+    <string name="qrcode_last_name">Last Name : </string>
+    <string name="qrcode_license_no">License No : </string>
+    <string name="qrcode_birthdate">BirthDate : </string>
+    <string name="qrcode_dl_exp">D.L. Expiry Date :</string>
+    <string name="qrcode_text">Scanned Text</string>
+    <string name="text">Text</string>
+    <string name="received_text_result">Received Text Result</string>
+    <string name="ISBN_Recieved">Received an ISBN</string>
+    <string name="isbn">ISBN:</string>
+    <string name="product_received">Product Code Received</string>
+    <string name="product_code">Product Code</string>
+    <string name="internet_connection_needed">Please connect to internet and try after some time.</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="internet_available">Internet connection is back</string>
+    <string name="url">URL</string>
+    <string name="url_received">URL Received</string>
+
+    <string-array name="dialog_text_choices">
+        <item>Open in Google Search</item>
+        <item>Show as Simple Text</item>
+    </string-array>
+
+    <string-array name="dialog_url_choices">
+        <item>Open in Browser</item>
+        <item>Copy Link Address</item>
+        <item>Show Link</item>
+    </string-array>
+</resources>
